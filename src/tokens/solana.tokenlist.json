@@ -120007,6 +120007,19 @@
       "extensions": {
         "instagram": "https://www.instagram.com/bondsnxb/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FAUmpJE62jYbL3da94B6VeoVkHc9uwQwmHgnMRMFvEA8",
+      "symbol": "Taksa",
+      "name": "Dog Coin (Taksa)",
+      "decimals": 2,
+      "logoURI": "https://github.com/Alien032020/token-list/blob/f31a9e26768f137b244bd6728e01a7fc6f883e54/assets/mainnet/Taksa_1.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+       }
     }
   ],
   "version": {
